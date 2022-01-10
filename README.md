@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anasimamshaikh@gmail.com)](mailto:anasimamshaikh@gmail.com)
 
 
-<img width="100%" src="/assets/separator.png">
+<img width="100%" src="separator.png">
 
 ### :wave:Hey, there fellow nerd! Welcome to my profile on Github
 
@@ -20,7 +20,7 @@ As a child, I was always interested in the Magical world of Science and its appl
 Well, that's why I took science as my primary study. Newton once said " What we know is drop and what we don't know is an ocean. ", that's the line that keeps me motivated to pursue this field. Humans have a special ability that no living thing has that is curiosity. That is why I want to know what we don't know yet. When I started my journey I stumbled upon the technology of Computers and my interest in this field just kept on increasing. This branch of science helps all the other branches of science as well as other world studies.
 Currently, I am doing my engineering in Computer Science. And learning new technologies and software that can keep my curiosity going.
 
-<img width="100%" src="/assets/separator.png">
+<img width="100%" src="separator.png">
 
 <div>
   <a href="https://www.linkedin.com/in/anas-imam-shaikh-7523051a0/">
@@ -28,7 +28,7 @@ Currently, I am doing my engineering in Computer Science. And learning new techn
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anasimamshaikh&layout=compact&theme=radical' />
 </div>
   
-<img width="100%" src="/assets/separator.png">
+<img width="100%" src="separator.png">
   
   ## ⚡️ Technologies
 
