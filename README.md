@@ -22,12 +22,13 @@ Currently, I am doing my engineering in Computer Science. And learning new techn
 
 <img width="100%" src="separator1.png">
 
-<div>
-  <a href="https://www.linkedin.com/in/anas-imam-shaikh-7523051a0/">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=AnasImamshaikh&theme=radical&show_icons=truek" />
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anasimamshaikh&layout=compact&theme=radical' />
+<div align="center">
+  <a href="https://www.linkedin.com/in/anas-imam-shaikh-7523051a0/" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasImamshaikh&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasImamshaikh&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
-  
 <img width="100%" src="separator.png">
   
   ## ⚡️ Technologies
