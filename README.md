@@ -22,7 +22,7 @@
 ```typescript
 const anas = {
   location   : "Mumbai, India 🇮🇳",
-  role       : "Senior QA Engineer / SDET",
+  role       : "Senior QA Engineer / SDET / Developer",
   experience : "3+ years — breaking things on purpose 🔨",
   status     : "Open to work · Immediate joiner ✅",
   stack      : ["Selenium","Playwright","Appium","REST Assured",
