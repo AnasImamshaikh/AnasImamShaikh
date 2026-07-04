@@ -115,20 +115,19 @@ Bar bursts into flames. 🔥</sub>
 <div align="center">
 
 **📊 GitHub Stats**
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=AnasImamshaikh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-<img height="150" src="https://streak-stats.demolab.com?user=AnasImamShaikh&theme=radical&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasImamshaikh&layout=compact&theme=radical&hide_border=true&hide_title=true" />
-
-</div>
-
-<!-- TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnasImamshaikh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
+<table width="100%" border="0">
+<tr>
+<td align="center" width="40%">
+<img src="https://github-stats-extended.vercel.app/api?username=AnasImamshaikh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" width="100%" />
+</td>
+<td align="center" width="32%">
+<img src="https://streak-stats.demolab.com?user=AnasImamShaikh&theme=radical&hide_border=true" width="100%" />
+</td>
+<td align="center" width="28%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnasImamshaikh&layout=compact&theme=radical&hide_border=true&hide_title=true" width="100%" />
+</td>
+</tr>
+</table>
 <!-- CONTRIBUTION GRAPH + SNAKE IN ONE BLOCK -->
 <div align="center">
 
